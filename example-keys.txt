@@ -1,0 +1,13 @@
+# A&B Key
+764CD061F1E6
+# A Key
+764CD061F15D:A
+# B Key
+764CD061F09E:B
+
+# malformed keys. 
+764CD061F1E6:a
+764CD061F1E6andkjasndkjasnd
+
+# This key will stop program because of 'g' symbol.
+764CD061F1g7
